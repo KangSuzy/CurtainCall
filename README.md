@@ -1,5 +1,5 @@
 # CurtainCall
-공연관람자를 위한 애프터 공연콘텐츠 스트리밍 서비스    
+## 공연관람자를 위한 **애프터 공연콘텐츠 스트리밍 서비스**    
 
 ![image](https://user-images.githubusercontent.com/43868550/60342291-0cf19000-99ec-11e9-91a1-75a53f6ce82f.png)        
 
